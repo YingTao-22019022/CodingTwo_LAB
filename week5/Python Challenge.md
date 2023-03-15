@@ -1,6 +1,6 @@
 LOOK THE PHOTO!!
 
-![question](G:\@@@UAL-CCI-CC\year2\Coding2\homework\week5\question.jpg)
+![image](https://user-images.githubusercontent.com/119857836/225220217-a7464731-7597-4041-aff6-17c16d7b5f5f.png)
 
 ```python
 !p%j6o36xd6v6ixl;[gp&zw-z?%c6g52byikwtwx5f5sm5r7r8dnvzsepb7:2usqw]ooq7!q6=
