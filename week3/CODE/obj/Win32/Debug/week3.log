@@ -1,0 +1,19 @@
+﻿  Triangle.cpp
+  cube.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\cube.cpp)
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\cube.cpp)
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\Triangle.cpp)
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\Triangle.cpp)
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week3\src\cube.cpp(20,2): warning C4996: 'ofCircle': Use ofDrawCircle instead
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week3\src\cube.cpp(22,2): warning C4996: 'ofRect': Use ofDrawRectangle instead
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week3\src\Triangle.cpp(22,2): warning C4996: 'ofTriangle': Use ofDrawTriangle instead
+  week3.vcxproj -> G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week3\bin\week3_debug.exe
+  
+  	                   2	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *多余文件   		 6018560	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week3\bin\FreeImage.dll
+  
+  	                   1	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *多余文件   		 1544704	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week3\bin\fmod.dll
+  	  *多余文件   		 1733120	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week3\bin\fmodL.dll

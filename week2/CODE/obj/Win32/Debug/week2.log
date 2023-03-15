@@ -1,0 +1,14 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week2\src\ofApp.cpp(13,20): warning C4018: “<”: 有符号/无符号不匹配
+G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week2\src\ofApp.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+  week2.vcxproj -> G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week2\bin\week2_debug.exe
+  
+  	                   2	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *多余文件   		 6018560	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week2\bin\FreeImage.dll
+  
+  	                   1	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *多余文件   		 1544704	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week2\bin\fmod.dll
+  	  *多余文件   		 1733120	G:\@@@UAL-CCI-CC\year2\Coding2\of_v0.11.2_vs2017_release\apps\myApps\week2\bin\fmodL.dll
